@@ -1,0 +1,7 @@
+﻿  E1.cpp
+c:\mis cosas\cursos\20191\comgraf\tp\tp_grafica_0.2\tp_grafica_0.0\e1.cpp(46): error C2065: 'p1': identificador no declarado
+c:\mis cosas\cursos\20191\comgraf\tp\tp_grafica_0.2\tp_grafica_0.0\e1.cpp(46): error C2660: 'glVertex3f': la función no acepta 1 argumentos
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\gl\gl.h(1477): note: vea la declaración de 'glVertex3f'
+c:\mis cosas\cursos\20191\comgraf\tp\tp_grafica_0.2\tp_grafica_0.0\e1.cpp(47): error C2065: 'p2': identificador no declarado
+c:\mis cosas\cursos\20191\comgraf\tp\tp_grafica_0.2\tp_grafica_0.0\e1.cpp(47): error C2660: 'glVertex3f': la función no acepta 1 argumentos
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\gl\gl.h(1477): note: vea la declaración de 'glVertex3f'
